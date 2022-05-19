@@ -1,3 +1,5 @@
-# Simple example of audio with Howler
+# Glitch-Remix
 
-An empty webpage for HTML/CSS/JavaScript exercises.
+Digital Writing Audio Exercise
+
+I changed the poem to "horse gallops" "lightning strikes" and "tree falls". I gathered my audio files from BBC sound effects and imported them into the assets folder.
